@@ -1,0 +1,11 @@
+## Interface: 11509, 20506, 38002, 50504, 120105, 16001
+## Author: Luaerror
+## Version: 1.0.0
+## Title: oUF CombatFeedback
+## Notes: Combat feedback (damage, heals, misses) support for oUF layouts.
+## RequiredDeps: oUF
+
+## X-Maintainer: Luaerror
+## X-Website: https://github.com/lua-wow/oUF_CombatFeedback
+
+oUF_CombatFeedback.lua
